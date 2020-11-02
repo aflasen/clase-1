@@ -1,5 +1,5 @@
 # clase-1: primera aproximación al tema
-Escogimos como tema de trabajo el impacto del [Rally Dakar](https://www.dakar.com/es/universo-dakar/lacarrera) en zonas naturales y patrimoniales del país. A contuación se muestran los puntos que desarrollaremos durante el proyecto.
+Escogimos como tema de trabajo el impacto del [Rally Dakar](https://www.dakar.com/es/universo-dakar/lacarrera) en zonas naturales y patrimoniales del país. A contuación se muestran los puntos que desarrollaremos durante el proyecto. En *cursiva* pusimos algunos puntos que desarrollaremos más adelante o gráficas que pueden acompañar la información.
 
 <img src="https://www.fundaciondesiertoatacama.cl/wp-content/uploads/2016/10/12-chug-chug-este-1.jpg" class="img-fluid" />
 
@@ -24,25 +24,27 @@ El rally Dakar es una de las carreras más populares y vistas, siendo transmitid
 
 - La carrera se desarrolla sin una ruta específica, sino que a campo travieso pasando por ciertos puntos específicos para completar la carrera. Estos significa que los participantes generan un impacto en los recorridos que realizan afectando los recursos naturales.
 
+<img src="https://elotroladodelascarreras.files.wordpress.com/2017/01/dakar_argentina_-_chile_2011-e1545754498406.jpg" class="img-fluid" />
+
 ### El caso de Chile
 #### El impacto del Dakar nacionalmente
-*Mostrar las rutas con un mapa que tambien incorpora las zonas de interés patrimonial*
+— *Mostrar las rutas con un mapa que tambien incorpora las zonas de interés patrimonial* —
 
 En Chile, las rutas han afectado zonas donde se encuentra patrimonio natural y cultural. 
-Qué se entiende por patrimonio; estamos hablando de....
-Que onda el patrimonio en Chile: tenemos caleta, pq? caracteristicas del desierto (aridez)
+- Qué se entiende por patrimonio (definición)
+- Que ocurre con el patrimonio a nivel nacional (tenemos abundante patrimonio cultural y natural (por qué; aridez del desierto lo protege), cuál es la perspectiva oficial nacional con respecto a la conservación patrimonial).
 
 Consecuencias "reales":
 - daño a elementos arqueológicos, tales como los geoglifos, en la zona norte de nuestro país, que debido a las rutas libres creadas por los propios pilotos, corren el riesgo de ser pulverizados por los vehículos. 
 - las huellas se mantienen por tiempo indefinido debido a las características áridas del desierto.
 - se destruye la flora del desierto, al impedir su crecimiento por el impacto de los neumaticos. Esto pone en peligro el surgimiento del desierto florido cada año, ya que destruyen los retoños de las plantas. En específico, la planta Bromeliácea Tillandsia Landbecki, se encuentra en peligro por las rutas que pasan por Arica y el Río Loa. Ésta es una especie endémica de esta zona desértica.
 
-*infografía que muestra el impacto y daño por año*
+— *infografía que muestra el impacto y daño por año* —
 
 ### El caso de Perú
 #### Ejemplo de cómo hacerlo bien
-*En perú tomaron las precauciones necesarias para salvaguardar el patrimonio cultural y natural de las zonas por donde pasaban las rutas, lo que permitió un desarrollo que no afectó el patrimonio nacional, mostrar un mapa con las rutas y los puntos de interés patrimonial*
+— *En perú tomaron las precauciones necesarias para salvaguardar el patrimonio cultural y natural de las zonas por donde pasaban las rutas, lo que permitió un desarrollo que no afectó el patrimonio nacional, mostrar un mapa con las rutas y los puntos de interés patrimonial* —
 
 ### Conclusiones
 #### La protección del patrimonio en la constitución
-*Creemos que es importante usar el ejemplo del dakar y demostrar cómo los intereses económicos están mas protegidos en la constitución que el patrimonio cultural y natural; para la nueva constitución es necesario incorporar el cuidado de este patrimonio*
+— *Creemos que es importante usar el ejemplo del dakar y demostrar cómo los intereses económicos están mas protegidos en la constitución que el patrimonio cultural y natural; para la nueva constitución es necesario incorporar el cuidado de este patrimonio* —
